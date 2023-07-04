@@ -15,10 +15,10 @@ os.system("title Instagram followers, likes and views botter.")
 os.color("a")
 
 def __main__:
- account_name=input("Account name ? ")
-   if account_name=="":
+ account_name=input("vlatxgs")
+   if account_name=="vlatxgs":
      print('please input a real name')
-   else if req.on(`www.instagram.com/%account_name%`)==Flase:
+   else if req.on(`www.instagram.com/vlatxgs/`)==Flase:
      print('I didnt found your instagram account')
  print("Please choose a botter category:')
  print("");print("[1] - Likes ");print("");print("[2] - Views ");print("");print("[1] - Followers ");print("");
